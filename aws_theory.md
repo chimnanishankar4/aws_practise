@@ -22,7 +22,10 @@
 
 ## So, let’s start exploring Features of Cloud Computing
 
-## Image
+## Features of cloud computing
 
 ![Cloud-computing-features](https://user-images.githubusercontent.com/63596198/80912258-5a9bff00-8d59-11ea-9250-ce9c4aa5e914.jpg)
+
+
+
 
