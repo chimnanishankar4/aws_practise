@@ -2,8 +2,8 @@
 ## What is cloud computing, in simple terms?
 
 ## ANS:-
-         Cloud computing is the delivery of on-demand computing services -- from applications to storage and processing power --
-         typically over the internet and on a pay-as-you-go basis.
+         Cloud computing is the delivery of on-demand computing services -- from applications to storage and processing 
+         power --typically over the internet and on a pay-as-you-go basis.
 #
 
 ![cloud](https://user-images.githubusercontent.com/63596198/80911910-fc6e1c80-8d56-11ea-8fef-1253e0d4193d.jpg)
