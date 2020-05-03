@@ -28,6 +28,7 @@
 
 ## Services of cloud computing
 
+![services](https://user-images.githubusercontent.com/63596198/80912490-e9f5e200-8d5a-11ea-8930-d94d4844bc3d.png)
 
 
 
